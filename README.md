@@ -1,7 +1,8 @@
 # Begin
 Just a beginer
 ## C language
-'''c
+
+```c
   #include<stdio.h>
   int main()
   {
