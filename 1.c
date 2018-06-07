@@ -2,6 +2,6 @@
 int main()
 {
   int h1=10;
-  printf("1");
+  printf("%d",h1);
   return 0;
 }
